@@ -21,7 +21,7 @@ repository               : "https://wkeenan21.github.io/WilliamKeenan.github.io/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Interdisciplinary Geographer and Data Scientist at the USGS"

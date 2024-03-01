@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "William Keenan's Personal Website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! About Me
-======
-My name is William Keenan. For Work: I am a geographer, geospatial data scientist, and hydrologist.
+
+For Work: I am a geographer, geospatial data scientist, and hydrologist. I use remote sensing and in situ data to study the Earth, especially the hydrosphere.
 For Fun: I am a whitewater boater, backcountry skier, and bad Catan player.
 
 Currently, I hold 3 part time positions.
@@ -18,13 +17,14 @@ I also work as a Teacher's Assistant at the University of Denver department of G
 Lastly, I am the Executive Officer for the CO Army National Guard's Military Intelligence Company: 86th IBCT, 572 BEB, D CO
 
 Background
-======
+------
 I grew up in Germantown, TN, a suburb of Memphis. From an early age, I was obsessed with both the natural landscape and the maps that described them.
 As soon as I was old enough to ride a bike and paddle a kayak I began exploring the neighborhoods, woods, and various waterways and drainage ditches around Memphis.
-Kayaking and camping along the Mississippi River was a formative experience that made me appreciate the beauty and power of rivers. 
+Kayaking and camping along the Mississippi River was a formative experience that made me appreciate the beauty and power of rivers.
 
-Like most 18 - 25 year olds looking for purpose, I decided to move the front range of Colorado. The University of Colorado Boulder provided the where, and a US Army ROTC scholarship provided the how.
-There, I double majored in GIS and Ecology and Evolutionary Biology and worked as a raft guide in the summers. After undergrad, I did some ecological field work jobs, GIS engineering, and deployed to Kosovo with the Army.
+After high school, like most young adults looking for purpose, I decided to move to the front range of Colorado. The University of Colorado Boulder provided the where, and a US Army ROTC scholarship provided the how.
+There, I double majored in GIS and Ecology & Evolutionary Biology and worked as a raft guide in the summers. For the first 4 years after undergrad, I did ecological field work jobs, GIS application engineering, and deployed to Kosovo with the Army.
+Eventually, I felt the pull of a research focused career and found my way back to school at the University of Denver. My time at DU has solidified my passion for science and teaching.
 
 My next step in life will be at Colorado State University where I will pursue a PhD in Watershed Sciences.
 I will be working with Dr. Stephanie Kampf on an interdiscplinary team of civil engineers, geoscientists, and water scientists studying post-fire hydrology.

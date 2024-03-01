@@ -21,7 +21,7 @@ repository               : "https://wkeenan21.github.io/WilliamKeenan.github.io/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "images\profile1.jpg"
   name             : "William Keenan"
   pronouns         : # example: "she/her"  
   bio              : "Interdisciplinary Geographer and Data Scientist"

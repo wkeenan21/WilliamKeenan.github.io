@@ -22,11 +22,11 @@ repository               : "https://wkeenan21.github.io/WilliamKeenan.github.io/
 author:
   # Biographic information
   avatar           : "profile1.jpg"
-  name             : "Your Sidebar Name"
+  name             : "William Keenan"
   pronouns         : # example: "she/her"  
-  bio              : "Interdisciplinary Geographer and Data Scientist at the USGS"
+  bio              : "Interdisciplinary Geographer and Data Scientist"
   location         : "Denver, Colorado, USA"
-  employer         : "The University of Denver"
+  employer         : "USGS & University of Denver"
   uri              : # URL
   email            : "wkeenan21@gmail.com" 
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/william-keenan-391020175/
+  linkedin         : william-keenan-391020175
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

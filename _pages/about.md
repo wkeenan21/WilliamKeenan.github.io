@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-For Work: I am a geographer, geospatial data scientist, and hydrologist. I use remote sensing and in situ data to study the Earth, especially the hydrosphere.
-For Fun: I am a whitewater boater, backcountry skier, and bad Catan player.
+#### For Work: I am a geographer, geospatial data scientist, and hydrologist. I use remote sensing and in situ data to study the Earth, especially the hydrosphere.
+#### For Fun: I am a whitewater boater, backcountry skier, and bad Catan player.
 
-Currently, I hold 3 part time positions.
+Currently, I hold 3 part time positions in addition to being a master's in Geography student at the University of Denver.
 I work at the USGS Geosciences and Environmental Change Science Center where I use remote sensing to study surface water fluctuations across the US.
 I also work as a Teacher's Assistant at the University of Denver department of Geography and the Environment where I teach remote sensing and GIS classes.
 Lastly, I am the Executive Officer for the CO Army National Guard's Military Intelligence Company: 86th IBCT, 572 BEB, D CO

@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to Environmental Remote Sensing"
 permalink: /teaching/CUD
 venue: "University of Colorado Denver, Department of Geography"
-date: Summer 2024
+date: 2024-06-01
 location: "Denver, CO"
 ---
 

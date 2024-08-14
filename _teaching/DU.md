@@ -4,7 +4,7 @@ collection: teaching
 type: "Remote Sensing, Advanced Remote Sensing, GIS Programming, GIS Environmental Modeling"
 permalink: /teaching/DU
 venue: "University of Denver, Department of Geography and the Environment"
-date: September 2022 - June 2024
+date: 2022-09-01
 location: "Denver, CO"
 ---
 

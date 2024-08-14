@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Watershed Science, Colorado State University, 2028 (expected)
+* M.A. in Geography, University of Denver, 2024
+* B.A. in Major: Ecology and Evolutionary Biology, 2nd Major: Geography, University of Colorado Boulder, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Remote Sensing Contractor**
+  * *United States Geological Survey - Geosciences and Environmental Change Science Center, May 2023 - July 2024*
+  * I worked on research related to the remote sensing of surface water - lakes, rivers, and wetlands.
+  * Supervisor: Melanie Vanderhoof
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Executive Officer**
+  * Colorado Army National Guard - D CO, 572 Brigade Engineering Battalion, May 2023 - Present
+  * I help lead a military intelligence company of 90 soldiers.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Teacher's Assistant**
+  * University of Denver, September 2022 - June 2024
+  * I TA'ed for remote sensing and GIS courses.
+
+* **Application Engineer**
+  * *Maxar Technologies, June 2022 - January 2023*
+  * I wrote custom tools, scripts, and processes for customers using Maxar's satellite imagery delivery APIs.
+
+* **Platform Support Engineer**
+  * *Maxar Technologies, December 2019 - June 2022*
+  * I supported Maxar's imagery delivery platforms such as SecureWatch and GEGD.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* GIS Programming
+  * Python
+  * R
+  * Google Earth Engine
+* Remote Sensing
+* Hydrologic Forecasting
+* Technical Writing
 
 Publications
 ======
@@ -59,6 +66,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

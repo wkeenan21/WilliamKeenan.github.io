@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Watershed Science, Colorado State University, 2028 (expected)
 * M.A. in Geography, University of Denver, 2024
-* B.A. in Major: Ecology and Evolutionary Biology, 2nd Major: Geography, University of Colorado Boulder, 2019
+* B.A. in Ecology & Evolutionary Biology, and (second major) Geography, University of Colorado Boulder, 2019
 
 Work experience
 ======
@@ -23,11 +23,11 @@ Work experience
   * Supervisor: Melanie Vanderhoof
 
 * **Executive Officer**
-  * Colorado Army National Guard - D CO, 572 Brigade Engineering Battalion, May 2023 - Present
+  * *Colorado Army National Guard - D CO, 572 Brigade Engineering Battalion, May 2023 - Present*
   * I help lead a military intelligence company of 90 soldiers.
 
 * **Teacher's Assistant**
-  * University of Denver, September 2022 - June 2024
+  * *University of Denver, September 2022 - June 2024*
   * I TA'ed for remote sensing and GIS courses.
 
 * **Application Engineer**
@@ -40,10 +40,7 @@ Work experience
   
 Skills
 ======
-* GIS Programming
-  * Python
-  * R
-  * Google Earth Engine
+* GIS Programming in Python
 * Remote Sensing
 * Hydrologic Forecasting
 * Technical Writing

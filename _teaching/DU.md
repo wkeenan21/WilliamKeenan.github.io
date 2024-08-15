@@ -8,5 +8,5 @@ date: 2022-09-01
 location: "Denver, CO"
 ---
 
-As a master's student at DU I TA'ed many GIS and Remote Sensing courses.
+As a master's student at DU, I TA'ed several GIS and Remote Sensing courses.
 

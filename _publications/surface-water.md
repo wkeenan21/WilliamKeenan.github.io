@@ -1,11 +1,11 @@
 ---
-title: "Surface water storage influences streamflow signatures"
+title: "Integrating remotely sensed surface water dynamics into hydrologic signature modelling"
 collection: publications
 permalink: /publication/surface-water
-date: 2024-05-06
+date: 2024-08-11
 venue: 'Hydrology and Earth System Sciences'
-paperurl: 'https://hess.copernicus.org/preprints/hess-2024-119/'
-citation: 'Vanderhoof, M. K., Nieuwlandt, P., Golden, H. E., Lane, C. R., Christensen, J. R., Keenan, W., and Dolan, W.: Surface water storage influences streamflow signatures, Hydrol. Earth Syst. Sci. Discuss., https://doi.org/10.5194/hess-2024-119, in review, 2024.'
+paperurl: 'https://hess.copernicus.org/preprints/hess-2024-298/'
+citation: 'Vanderhoof, M. K., Nieuwlandt, P., Golden, H. E., Lane, C. R., Christensen, J. R., Keenan, W., and Dolan, W.: Integrating remotely sensed surface water dynamics into hydrologic signature modelling, Hydrol. Earth Syst. Sci. Discuss., https://doi.org/10.5194/hess-2024-119, in review, 2024.'
 ---
 
 Abstract:

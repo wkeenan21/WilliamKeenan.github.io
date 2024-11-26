@@ -38,12 +38,21 @@ Work experience
   * *Maxar Technologies, December 2019 - June 2022*
   * I supported Maxar's imagery delivery platforms such as SecureWatch and GEGD.
   
+* **Native Trout Conservation Intern**
+  * *Yellowstone National Park, August 2019 - October 2019*
+  * I assisted in research and conservation of the Yellowstone Cutthroat trout.
+
+* **Biological Science Technician**
+  * *Wildlife Services, USDA Wyoming, May 2019 - July 2019*
+  * I assisted in field work to save the critically endangered Black Footed Ferret
+
 Skills
 ======
 * GIS Programming in Python
 * Remote Sensing
 * Hydrologic Forecasting
 * Technical Writing
+* Raft Guide
 
 Publications
 ======

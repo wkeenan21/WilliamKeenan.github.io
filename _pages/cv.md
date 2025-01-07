@@ -21,9 +21,9 @@ Work experience
   * *United States Geological Survey - Geosciences and Environmental Change Science Center, May 2023 - July 2024*
   * I worked on research related to the remote sensing of surface water - lakes, rivers, and wetlands.
   * Supervisor: Melanie Vanderhoof
-*  **Remote Sensing Instructor**
+* **Remote Sensing Instructor**
   * *University of Colorado Denver, June 2024 - July 2024*
-  * I taught the Remote Sensing Course at CU Denver for the Summer 2024 semester.
+  * I taught Introduction to Environmental Remote Sensing during the summer 2024 semester
 
 * **Executive Officer**
   * *Colorado Army National Guard - D CO, 572 Brigade Engineering Battalion, May 2023 - Present*

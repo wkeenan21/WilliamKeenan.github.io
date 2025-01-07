@@ -21,6 +21,9 @@ Work experience
   * *United States Geological Survey - Geosciences and Environmental Change Science Center, May 2023 - July 2024*
   * I worked on research related to the remote sensing of surface water - lakes, rivers, and wetlands.
   * Supervisor: Melanie Vanderhoof
+*  **Remote Sensing Instructor**
+  * *University of Colorado Denver, June 2024 - July 2024*
+  * I taught the Remote Sensing Course at CU Denver for the Summer 2024 semester.
 
 * **Executive Officer**
   * *Colorado Army National Guard - D CO, 572 Brigade Engineering Battalion, May 2023 - Present*
@@ -45,6 +48,11 @@ Work experience
 * **Biological Science Technician**
   * *Wildlife Services, USDA Wyoming, May 2019 - July 2019*
   * I assisted in field work to save the critically endangered Black Footed Ferret
+* **Military Intelligence Officer**
+  * *Colorado Army National Guard, May 2019 - Present*
+  * I commissioned into the Colorado National Guard in 2019 as an MI officer.
+  * From 2019 to 2022 I held positions including S2 OIC, Platoon Leader, and Targeting OIC.
+  * In 2021 I deployed to Kosovo with the NATO Peacekeeping mission: Kosovo Force.
 
 Skills
 ======

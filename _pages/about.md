@@ -13,7 +13,7 @@ redirect_from:
 \
 I am a PhD student in Watershed Science at Colorado State University. I study how wildfire affects hydrologic regimes in mountain environments. I have a background in remote sensing and GIS and
 love applying this knowledge to hydrology problems.
-I am also the executive officer for the CO Army National Guard's Military Intelligence Company: D CO, 572 BEB, 86th IBCT.
+I am also a military intelligence officer in the Colorado Army National Guard.
 
 Background
 ------

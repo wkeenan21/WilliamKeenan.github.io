@@ -51,14 +51,14 @@ Work experience
 * **Military Intelligence Officer**
   * *Colorado Army National Guard, May 2019 - Present*
   * I commissioned into the Colorado National Guard in 2019 as an MI officer.
-  * From 2019 to 2022 I held positions including S2 OIC, Platoon Leader, and Targeting OIC.
   * In 2021 I deployed to Kosovo with the NATO Peacekeeping mission: Kosovo Force.
+  * I have held several positions including: platoon leader, executive officer, and brigade assistant S2.
 
 Skills
 ======
 * GIS Programming in Python
 * Remote Sensing
-* Hydrologic Forecasting
+* Hydrologic Modelling
 * Technical Writing
 * Raft Guide
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/surface_water_LSTM
 date: 2026-01-01
 venue: 'Hydrological Sciences Journal'
-paperurl: 'https://doi.org/10.1007/s11273-025-10066-z'
+paperurl: 'https://doi.org/10.1080/02626667.2025.2593333'
 citation: 'Vanderhoof, M. K., <b>Keenan, W.</b>, Dolan, W., Golden, H., Lane, C., Christensen, J., Solvik K., Rajib A. (2025). Characterizing the influence of remotely sensed wetland and lake water storage on discharge using LSTM models. Hydrological Sciences Journal. https://doi.org/10.1080/02626667.2025.2593333'
 ---
 

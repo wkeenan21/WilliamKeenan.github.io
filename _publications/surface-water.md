@@ -5,7 +5,7 @@ permalink: /publication/surface-water
 date: 2025-07-05
 venue: 'Wetlands Ecology and Management'
 paperurl: 'https://doi.org/10.1007/s11273-025-10066-z'
-citation: 'Vanderhoof, M. K., Nieuwlandt, P., Golden, H. E., Lane, C. R., Christensen, J. R., Keenan, W., & Dolan, W. (2025). Relating surface water dynamics in wetlands and lakes to spatial variability in hydrologic signatures. Wetlands Ecology and Management, 33(4), 53. https://doi.org/10.1007/s11273-025-10066-z'
+citation: 'Vanderhoof, M. K., Nieuwlandt, P., Golden, H. E., Lane, C. R., Christensen, J. R., <b>Keenan, W.</b>, & Dolan, W. (2025). Relating surface water dynamics in wetlands and lakes to spatial variability in hydrologic signatures. Wetlands Ecology and Management, 33(4), 53. https://doi.org/10.1007/s11273-025-10066-z'
 ---
 
 Abstract:

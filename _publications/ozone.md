@@ -5,7 +5,7 @@ permalink: /publication/ozone
 date: 2024-06-15
 venue: 'Electronic Theses and Dissertations'
 paperurl: 'https://digitalcommons.du.edu/etd/2398'
-citation: 'Keenan, William J., "A Geospatial and Machine Learning Framework for Forecasting Ground Level Ozone Pollution" (2024). Electronic Theses and Dissertations. 2398. https://digitalcommons.du.edu/etd/2398'
+citation: '<b>Keenan, William J.</b>, "A Geospatial and Machine Learning Framework for Forecasting Ground Level Ozone Pollution" (2024). Electronic Theses and Dissertations. 2398. https://digitalcommons.du.edu/etd/2398'
 ---
 
 Abstract:

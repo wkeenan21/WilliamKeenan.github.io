@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* **Graduate Research Assistant**
+  * *Colorado State University, Aug 2024 - Present*
+  * I conduct novel research on how wildfire and climate change are affecting the hydrologic systems of the American West.
+  * I help maintain a network of stream gauges, precipitation gauges, and snow stakes in the Cache La Poudre watershed.
+  * Supervisor: Stephanie Kampf
 * **Remote Sensing Contractor**
   * *United States Geological Survey - Geosciences and Environmental Change Science Center, May 2023 - July 2024*
   * I worked on research related to the remote sensing of surface water - lakes, rivers, and wetlands.
@@ -50,7 +55,7 @@ Work experience
   * I assisted in field work to save the critically endangered Black Footed Ferret
 * **Military Intelligence Officer**
   * *Colorado Army National Guard, May 2019 - Present*
-  * I commissioned into the Colorado National Guard in 2019 as an MI officer.
+  * I commissioned into the Colorado Army National Guard in 2019 as an MI officer.
   * In 2021 I deployed to Kosovo with the NATO Peacekeeping mission: Kosovo Force.
   * I have held several positions including: platoon leader, executive officer, and brigade assistant S2.
 

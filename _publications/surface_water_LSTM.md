@@ -1,5 +1,5 @@
 ---
-title: "Characterizing the influence of remotely sensed wetland and lake water storage on discharge using LSTM models (in production)"
+title: "Characterizing the influence of remotely sensed wetland and lake water storage on discharge using LSTM models"
 collection: publications
 permalink: /publication/surface_water_LSTM
 date: 2026-01-01

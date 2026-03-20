@@ -1,0 +1,12 @@
+---
+title: "Strategies for Assessing Post-Wildfire Geomorphic Resilience in Semiarid Rivers"
+collection: publications
+permalink: /publication/river_resilience
+date: 2026-03-20
+venue: 'River Research and Applications'
+paperurl: 'http://doi.org/10.1002/rra.70131'
+citation: 'Wohl, E., Triantafillou, S., Thornton-Dunwoody, A., Mertz, C., Larkin, K., <b>Keenan, W.</b>, Griffin, S., Davis, D., & Blehm, L. (2026). Strategies for Assessing Post-Wildfire Geomorphic Resilience in Semiarid Rivers. River Research and Applications, n/a(n/a). https://doi.org/10.1002/rra.70131'
+---
+
+Abstract:
+We review and summarize diverse components of a catchment that can be monitored after wildfire to assess the geomorphic resilience of the river corridor in semiarid regions. We distinguish upland portions of river catchments from river corridors. Upland components influence inputs of water, solutes, sediment, and organic matter to river corridors. Upland components following wildfire can be assessed with respect to topography (erosion, deposition, rilling, channel head position, drainage density, water and sediment connectivity), snowpack (peak snow water equivalent, snow disappearance date, snowmelt rate), runoff ratio, soils (repellency, infiltration capacity, sorptivity, soil moisture), and vegetation (community composition, density or percent cover). River corridor components following wildfire can be assessed via hydrograph characteristics, sediment supply and transport, channel morphology, floodplain morphology, river corridor connectivity, and aquatic and riparian habitat. We list specific parameters for each of these components and review methods used to measure these parameters. The ability to evaluate geomorphic resilience of a river catchment or corridor may depend on understanding of (i) baselines against which to assess resilience, (ii) responses of system components through time after disturbance, (iii) choice of specific components within a catchment or river corridor, and (iv) recognition of human interactions within the catchment or river corridor. We discuss the basis for choices regarding spatial and temporal resolution and extent of measurements, using the Cache la Poudre River catchment in Colorado, USA as an example. 

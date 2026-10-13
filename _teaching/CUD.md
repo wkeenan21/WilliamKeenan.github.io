@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Remote Sensing Instructor"
 collection: teaching
 type: "Introduction to Environmental Remote Sensing"
 permalink: /teaching/CUD
@@ -8,4 +8,4 @@ date: 2024-06-01
 location: "Denver, CO"
 ---
 
-I was the lead instructor for CU Denver's Remote Sensing course in the summer of 2024.
+I was the instructor for CU Denver's Remote Sensing course in the summer of 2024.

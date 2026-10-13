@@ -1,5 +1,5 @@
 ---
-title: "Teacher's Assistant"
+title: "GIS TA"
 collection: teaching
 type: "Remote Sensing, Advanced Remote Sensing, GIS Programming, GIS Environmental Modeling"
 permalink: /teaching/DU
